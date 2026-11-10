@@ -2,13 +2,11 @@
 
 Im gonna use this file to write how to edit or make changes to the designs as a designer so if you want to edit the code you can.
 
-
-
 ### GITHUB
 
-If you want to edit things please download github desktop and ill write how to do it here:
+If you want to edit things like colours, values for animations, visuals etc... please download github desktop and ill write how to do it here:
 
-1. Download github desktop and vscode if you havent got it
+1. Download github desktop and visualstudiocode if you havent got it
 2. clone repo by url in the desktop app (repository->add->clone url) paste the url for this page
 
 ### important! never make edits on the main branch EVER 
