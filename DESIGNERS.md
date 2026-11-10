@@ -10,6 +10,10 @@ If you want to edit things please download github desktop and ill write how to d
 
 1. Download github desktop and vscode if you havent got it
 2. clone repo by url in the desktop app (repository->add->clone url) paste the url for this page
+
+### important! never make edits on the main branch EVER 
+> make sure ur github desktop app says current branch 'name of branch' and only merge w dev or dont merge at all and ill do it
+
 3. create a new branch called name_design_channges or something similar that tells what your doing
 4. open the repo in vscode
 5. make sure the folder is trusted, there should be a thingy on the top that says manage, or:
