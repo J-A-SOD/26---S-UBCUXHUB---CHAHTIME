@@ -1,6 +1,11 @@
 /* USE THIS FILE TO EDIT BASIC CSS VARIABLES AND COLOURS*/
 
 :root {
+    /* BASIC VALUES */
+    --BackgroundColour: hsl(0, 61%, 49%);
+    --Placeholder: hsl(0, 61%, 49%);
+    --Placeholder: hsl(0, 61%, 49%);
+    --Placeholder: hsl(0, 61%, 49%);
     
     /* HEADER VALUES */
     --Placeholder: hsl(0, 61%, 49%);
