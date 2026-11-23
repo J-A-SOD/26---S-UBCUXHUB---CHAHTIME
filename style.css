@@ -1,9 +1,9 @@
 /* IMPORTING FONTS ------------------------------------------------------------------ */
 
-/* @font-face {
-    font-family: 'Zodiac-Variable';
-    src: url('./assets/fonts/Zodiac-Variable.woff2') format('opentype');
-} */
+@font-face {
+    font-family: 'Satoshi-Variable';
+    src: url('./assets/fonts/Satoshi-Variable.woff2') format('woff2');
+}
 
 /* BASE STYLES ---------------------------------------------------------------------- */
 
@@ -13,12 +13,12 @@
     box-sizing: border-box;
 }
 
-/* BASE STYLES ---------------------------------------------------------------------- */
+/* XXX STYLES ---------------------------------------------------------------------- */
 
 
 
 
-/* BASE STYLES ---------------------------------------------------------------------- */
+/* XXX STYLES ---------------------------------------------------------------------- */
 
 
 
